@@ -8,6 +8,7 @@
 
   body {
     font-family: "Poppins", sans-serif;
+    margin-left: 0;
   }
 
   html {
@@ -171,6 +172,7 @@ section {
     height: 400px;
     width: 400px;
     margin: auto 0;
+    margin-left: -20px;
   }
   
   .section__text {
